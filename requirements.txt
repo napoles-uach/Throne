@@ -1,0 +1,6 @@
+plotly
+modzy
+sklearn
+pyvis
+numpy
+wordcloud
