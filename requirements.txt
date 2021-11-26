@@ -1,5 +1,5 @@
 plotly
-modzy
+modzy-sdk
 sklearn
 pyvis
 numpy
