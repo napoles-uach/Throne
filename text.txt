@@ -1218,3 +1218,7 @@ Ogo is a Dothraki khal. He has a son, Fogo.
 ==== Stiv
 Stiv is a deserter of the Night's Watch.
 
+
+==== Hali
+Hali is a wildling spearwife.
+
