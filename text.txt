@@ -1222,3 +1222,5 @@ Stiv is a deserter of the Night's Watch.
 ==== Hali
 Hali is a wildling spearwife.
 
+==== Eroeh
+Eroeh is a Lhazareen girl who lives in Lhazar.
