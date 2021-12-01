@@ -1224,3 +1224,6 @@ Hali is a wildling spearwife.
 
 ==== Eroeh
 Eroeh is a Lhazareen girl who lives in Lhazar.
+
+==== Matthar
+Matthar, sometimes called Matt, is a recruit of the Night's Watch.
