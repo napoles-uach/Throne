@@ -1258,3 +1258,6 @@ Morrec is a servant of Tyrion Lannister on his travels. Tyrion Lannister states 
 
 ==== Wendel Manderly
 Ser Wendel Manderly is a knight of House Manderly. He is the second son of Wyman Manderly, Lord of White Harbor.
+
+==== Lyn Corbray
+Ser Lyn Corbray is a knight from House Corbray who wields Lady Forlorn, a sword of Valyrian steel. He is the heir of his elder brother, Lord Lyonel Corbray of Heart's Home.
