@@ -1213,3 +1213,8 @@ Quaro is a Dothraki warrior assigned to the khas of Daenerys Targaryen within th
 
 ==== Ogo
 Ogo is a Dothraki khal. He has a son, Fogo.
+
+
+==== Stiv
+Stiv is a deserter of the Night's Watch.
+
