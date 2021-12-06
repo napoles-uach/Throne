@@ -3,5 +3,14 @@
  
  This app was done for the Modzy AI Hackathon https://modzyai.devpost.com/
  
+ To run locally, you can do the following:
+ ```
+ git clone -l -s https://github.com/napoles-uach/Throne.git cloned-repo
+ cd cloned-repo 
+ pip install streamlit
+ pip install -r requirements.txt
+ streamlit run app4.py
+ ```
+ 
  
  
